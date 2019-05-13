@@ -7,9 +7,11 @@ class PocketKampus extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Pocket Kampus',
+      debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
           title: Text('Pocket Kampus'),
+          centerTitle: true,
         ),
         body: Center(
           child: Container(
