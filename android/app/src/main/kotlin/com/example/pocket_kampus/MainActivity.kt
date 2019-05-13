@@ -1,4 +1,4 @@
-package com.example.pocket_kampus_flutter
+package com.example.pocket_kampus
 
 import android.os.Bundle
 
